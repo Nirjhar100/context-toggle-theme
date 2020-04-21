@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/context-toggle-theme.git/static/css/main.051d3cc2.chunk.css",
-    "main.js": "/context-toggle-theme.git/static/js/main.e2f0b937.chunk.js",
-    "main.js.map": "/context-toggle-theme.git/static/js/main.e2f0b937.chunk.js.map",
-    "runtime-main.js": "/context-toggle-theme.git/static/js/runtime-main.4ab169f2.js",
-    "runtime-main.js.map": "/context-toggle-theme.git/static/js/runtime-main.4ab169f2.js.map",
-    "static/js/2.074a0a44.chunk.js": "/context-toggle-theme.git/static/js/2.074a0a44.chunk.js",
-    "static/js/2.074a0a44.chunk.js.map": "/context-toggle-theme.git/static/js/2.074a0a44.chunk.js.map",
-    "index.html": "/context-toggle-theme.git/index.html",
-    "precache-manifest.c79cf5499e30f24ab18d5cfcf0d36849.js": "/context-toggle-theme.git/precache-manifest.c79cf5499e30f24ab18d5cfcf0d36849.js",
-    "service-worker.js": "/context-toggle-theme.git/service-worker.js",
-    "static/css/main.051d3cc2.chunk.css.map": "/context-toggle-theme.git/static/css/main.051d3cc2.chunk.css.map",
-    "static/js/2.074a0a44.chunk.js.LICENSE.txt": "/context-toggle-theme.git/static/js/2.074a0a44.chunk.js.LICENSE.txt"
+    "main.css": "/context-toggle-theme/static/css/main.051d3cc2.chunk.css",
+    "main.js": "/context-toggle-theme/static/js/main.e2f0b937.chunk.js",
+    "main.js.map": "/context-toggle-theme/static/js/main.e2f0b937.chunk.js.map",
+    "runtime-main.js": "/context-toggle-theme/static/js/runtime-main.a0b24a97.js",
+    "runtime-main.js.map": "/context-toggle-theme/static/js/runtime-main.a0b24a97.js.map",
+    "static/js/2.074a0a44.chunk.js": "/context-toggle-theme/static/js/2.074a0a44.chunk.js",
+    "static/js/2.074a0a44.chunk.js.map": "/context-toggle-theme/static/js/2.074a0a44.chunk.js.map",
+    "index.html": "/context-toggle-theme/index.html",
+    "precache-manifest.dba1eac92dc9f19eb185ea99b03a3178.js": "/context-toggle-theme/precache-manifest.dba1eac92dc9f19eb185ea99b03a3178.js",
+    "service-worker.js": "/context-toggle-theme/service-worker.js",
+    "static/css/main.051d3cc2.chunk.css.map": "/context-toggle-theme/static/css/main.051d3cc2.chunk.css.map",
+    "static/js/2.074a0a44.chunk.js.LICENSE.txt": "/context-toggle-theme/static/js/2.074a0a44.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ab169f2.js",
+    "static/js/runtime-main.a0b24a97.js",
     "static/js/2.074a0a44.chunk.js",
     "static/css/main.051d3cc2.chunk.css",
     "static/js/main.e2f0b937.chunk.js"
