@@ -19,6 +19,9 @@ export function ThemeProvider(props){
     }
 
     const toggle=()=>{
+        const body = document.getElementsByTagName('body')[0];
+        body.style.cssText = 'transition: background .5s ease';
+
         setDark(!dark);
         window.localStorage.setItem('darkTheme',!dark)
     }
@@ -52,11 +55,11 @@ export function ThemeProvider(props){
         '--border: rgba(255,255,255,.1)',
         '--shadow: #000',
         '--heading: rgba(255,255,5,.9)',
-        '--main: #1d8f13',
+        '--main: #79248f',
         '--text: rgb(255, 255, 255)',
-        '--textAlt: black',
+        '--textAlt: #fff',
         '--inactive: rgba(255,255,255,.3)',
-        '--background: black',
+        '--background: #2D2D2D',
       ];
 
     return(

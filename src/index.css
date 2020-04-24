@@ -32,6 +32,10 @@ h2 {
   background: var(--main);
   color: var(--textAlt);
 }
+/* Transitons for smooth theme change */
+*:not(body) {
+  transition: all .3s ease;
+}
 
 body {
   margin: 0;
